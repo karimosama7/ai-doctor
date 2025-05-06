@@ -1,9 +1,5 @@
 # AI-Doctor: Medical Chatbot with Image Analysis
 
-<div align="center">
-  <img src="https://via.placeholder.com/150" alt="AI-Doctor Logo" width="200"/>
-  <h3>An AI-powered medical image analysis application</h3>
-</div>
 
 ## 📋 Overview
 
