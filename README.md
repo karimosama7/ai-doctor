@@ -15,11 +15,6 @@ AI-Doctor is a web application that allows users to upload medical images and as
 - 📱 Responsive design for desktop and mobile use
 - 🔒 Image validation and error handling
 
-## 🖼️ Screenshots
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x400" alt="AI-Doctor Interface" width="800"/>
-</div>
 
 ## 🛠️ Technology Stack
 
@@ -37,9 +32,7 @@ The application follows a client-server architecture:
 2. **API Layer**: Processes requests, validates images, and communicates with AI services
 3. **AI Integration Layer**: Formats data for and communicates with Groq's AI services
 
-<div align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Architecture Diagram" width="600"/>
-</div>
+
 
 ## 🚀 Getting Started
 
